@@ -1,6 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# 8-bit Up/Down Counter (Tiny Tapeout)
+
+An 8-bit up/down counter with enable and parallel load, built as a Tiny Tapeout design for the FPGA class (HW5).
 
 - [Read the documentation for project](docs/info.md)
 
